@@ -1,0 +1,2 @@
+backEnd Management: https://sharemeyang.sanity.studio/desk
+FrontEnd: https://shareme-yang.netlify.app/
